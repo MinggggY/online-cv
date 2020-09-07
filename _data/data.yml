@@ -43,22 +43,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Nicolette graduated from The Australian National University - where she was a
-2019 Residential Scholar and Summer Research Scholar. She also taught as a
-university tutor and worked as the Research Officer to the Associate Dean of the
-College of Engineering and Computer Science. Apart from this experience in
-academia, she also has an extensive range of experience involving internet of
-things engineering and Android application development. This provides her with
-transferable skills in domains that require both a high attention to detail, as well
-as the ability to communicate effectively.
+      Nicolette graduated from The Australian National University - where she was a 2019 Residential Scholar and Summer Research Scholar. She also taught as a
+university tutor and worked as the Research Officer to the Associate Dean of the College of Engineering and Computer Science. Apart from this experience in
+academia, she also has an extensive range of experience involving internet of things engineering and Android application development. This provides her with
+transferable skills in domains that require both a high attention to detail, as well as the ability to communicate effectively.
 
 education:
     - degree: M.Computing
       university: The Australian National University
       time: 2018 - 2020
       details: |
-          - Scored 98.75 in mid-semester examination for COMP6710 Structured
-Programming, and eventually selected as an Academic Tutor for this course.
+          - Scored 98.75 in mid-semester examination for COMP6710 Structured Programming, and eventually selected as an Academic Tutor for this course.
           - April 2019 - December 2019 Senior Residential Scholar
           - 2019 Summer Research Scholar. 
     - degree: B.Science Engineering(Honours)
@@ -72,7 +67,6 @@ Programming, and eventually selected as an Academic Tutor for this course.
       university: Beijing University of Posts and Telecommunications
       time: 2014 - 2018
       details: |
-        Majored in Internet of Things Engineering
           - Achieved a GPA of 83/100, and ranked within top 15% of the entire cohort.
           - Scored 92/100 in Data Structure using C++.
 experiences:
